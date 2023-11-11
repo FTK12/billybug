@@ -3671,7 +3671,7 @@
 	<br>
 	<a href="./easteregg.html"><img src="images/3dgifmaker02074.gif" class="slide-in-elliptic-bottom-bck"></a>
 	<div class="hidden_elements">
-	<a href="">Go To Bug Land</a>
+	<a href="./bugland.html">Go To Bug Land</a>
 	</div>
 	<div class="fade-out">
 <div class="loader-wrapper">
