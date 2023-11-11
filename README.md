@@ -32,11 +32,6 @@
 	</style>
 	<style>
 	/*
-* infinite Loader 
-*
-* Author: Jonathan Silva
-* Url: https://portfolio.jonathansilva.com.br
-*
 */
 /* ----- Base ----- */
 /* ----- Loader ----- */
